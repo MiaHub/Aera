@@ -2,6 +2,10 @@
 
 Book writing collabartion
 
+**Table of Contents**
+
+1. [Chapter1](#chapter1)
+
 ```markdown
 Syntax highlighted code block
 
@@ -16,9 +20,8 @@ Syntax highlighted code block
 2. List
 
 **Bold** and _Italic_ and `Code` text
-
-[https://github.com/MiaHub/Aera/blob/main/readme.md](url) 
-and ![Image](src)
 ```
 
-[https://github.com/MiaHub/Aera/blob/main/readme.md]
+## Chapter1
+[link](https://github.com/MiaHub/Aera/blob/main/README.md)
+[Image](https://pin.it/CKbZn6Y)
