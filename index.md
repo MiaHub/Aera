@@ -1,6 +1,6 @@
 ## Welcome to Aera
 
-Book writing collabartion 123
+Book writing collabartion
 
 ```markdown
 Syntax highlighted code block
