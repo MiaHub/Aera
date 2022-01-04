@@ -7,10 +7,8 @@ let disableScroll = false;
 let scrollPos;
 
 let items = [...document.querySelectorAll('.slider-item')];
-let images = [...document.querySelectorAll('img-div')];
+let images = [...document.querySelectorAll('.img-div')];
 
-images.forEach((image, idx) => 
-    {
+images.forEach((image, idx) => {
         image.style.backgroundImage = 'url(./images/${idx+1}.jpeg)'
-    }
-)
+})
