@@ -23,5 +23,6 @@ Syntax highlighted code block
 ```
 
 ## Chapter1
-[link](https://github.com/MiaHub/Aera/blob/main/README.md)
-[Image](https://pin.it/CKbZn6Y)
+<a href="https://github.com/MiaHub/Aera/blob/main/README.md">
+  <img src="https://cdn.pixabay.com/photo/2018/01/06/09/25/hijab-3064633_960_720.jpg" alt="Eyes" style="width:430x;height:360px;">
+</a> 
