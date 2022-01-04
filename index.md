@@ -8,26 +8,30 @@ Book writing collabartion
 
 ## Chapter1
 <html lang="en">
+<head>
+<meta charset="UTF=8">
 <link rel="stylesheet" href="style.css">
 <!-- Slideshow container -->
 <div class="slideshow-container">
+</head>
 
+<body>
   <!-- Full-width images with number and caption text -->
   <div class="mySlides fade">
     <div class="numbertext">1 / 3</div>
-    <img src="https://i.pinimg.com/originals/ee/b6/b8/eeb6b891f29aa8aac7e244af7e175b71.jpg" style="width:100%">
+    <img src="https://i.pinimg.com/originals/ee/b6/b8/eeb6b891f29aa8aac7e244af7e175b71.jpg" style="width:430px;height:360px;">
     <div class="text">Caption Text</div>
   </div>
 
   <div class="mySlides fade">
     <div class="numbertext">2 / 3</div>
-    <img src="https://i.pinimg.com/originals/ee/b6/b8/eeb6b891f29aa8aac7e244af7e175b71.jpg" style="width:100%">
+    <img src="https://i.pinimg.com/originals/ee/b6/b8/eeb6b891f29aa8aac7e244af7e175b71.jpg" style="width:430px;height:360px;">
     <div class="text">Caption Two</div>
   </div>
 
   <div class="mySlides fade">
     <div class="numbertext">3 / 3</div>
-    <img src="https://i.pinimg.com/originals/ee/b6/b8/eeb6b891f29aa8aac7e244af7e175b71.jpg" style="width:100%">
+    <img src="https://i.pinimg.com/originals/ee/b6/b8/eeb6b891f29aa8aac7e244af7e175b71.jpg" style="width:430px;height:360px;">
     <div class="text">Caption Three</div>
   </div>
 
@@ -46,6 +50,9 @@ Book writing collabartion
 </div>
 
 <a href="https://github.com/MiaHub/Aera/blob/main/README.md">
-  <img src="https://i.pinimg.com/originals/ee/b6/b8/eeb6b891f29aa8aac7e244af7e175b71.jpg" alt="Eyes" style="width:430px;height:360px;">
+  <img src="https://i.pinimg.com/originals/ee/b6/b8/eeb6b891f29aa8aac7e244af7e175b71.jpg" style="width:430px;height:360px;">
 </a>
+
+<script src="app.js"></script>
+</body>
 </html>
