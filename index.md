@@ -25,7 +25,7 @@ Book writing collabartion
 
   <div class="mySlides fade">
     <div class="numbertext">2 / 3</div>
-    <img src="https://i.pinimg.com/originals/ee/b6/b8/eeb6b891f29aa8aac7e244af7e175b71.jpg" style="width:430px;height:360px;">
+    <img src="https://assets.pinterest.com/ext/embed.html?id=80994493275279347.jpg" height="360" width="345" style="width:430px;height:360px;">
     <div class="text">Caption Two</div>
   </div>
 
@@ -48,10 +48,6 @@ Book writing collabartion
   <span class="dot" onclick="currentSlide(2)"></span>
   <span class="dot" onclick="currentSlide(3)"></span>
 </div>
-
-<a href="https://github.com/MiaHub/Aera/blob/main/page1.html">
-  <img src="https://i.pinimg.com/originals/ee/b6/b8/eeb6b891f29aa8aac7e244af7e175b71.jpg" style="width:430px;height:360px;">
-</a>
 
 <script src="app.js"></script>
 </body>
