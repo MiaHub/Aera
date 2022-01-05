@@ -1,13 +1,12 @@
 ## Welcome to Aera
 
-Book writing collabartion #b2
+Book writing collabartion
 
 **Table of Contents**
 
 1. [Chapter1](#chapter1)
 
 ## Chapter1
-<!DOCTYPE html>
 <html>
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
