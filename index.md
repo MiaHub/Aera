@@ -14,11 +14,7 @@ main branch showing
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
-* {box-sizing: border-box}
-body {font-family: Verdana, sans-serif; margin:0}
-.mySlides {display: none}
-img {vertical-align: middle;}
-
+  
 <link rel="stylesheet" href="style.css">
 
 </style>
