@@ -35,7 +35,7 @@ img {vertical-align: middle;}
 
 <div class="mySlides fade">
   <div class="numbertext">2 / 3</div>
-  <img src="https://assets.pinterest.com/ext/embed.html?id=80994493275279347.jpg" style="width:430px;height:360px;">
+  <img src="https://assets.pinterest.com/ext/embed.html?id=80994493275279347" style="width:430px;height:360px;">
   <div class="text">Caption Two</div>
 </div>
 
