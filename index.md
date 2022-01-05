@@ -21,19 +21,19 @@ main branch showing
 
 <div class="mySlides fade">
   <div class="numbertext">1 / 3</div>
-  <img src="https://i.pinimg.com/originals/ee/b6/b8/eeb6b891f29aa8aac7e244af7e175b71.jpg" style="width:430px;height:360px;">
+  <img src="https://i.pinimg.com/originals/ee/b6/b8/eeb6b891f29aa8aac7e244af7e175b71.jpg" style="width:1000px;height:500px;">
   <div class="text">Caption Text</div>
 </div>
 
 <div class="mySlides fade">
   <div class="numbertext">2 / 3</div>
-  <img src="https://assets.pinterest.com/ext/embed.html?id=80994493275279347" style="width:430px;height:360px;">
+  <img src="https://assets.pinterest.com/ext/embed.html?id=6966574412234718" style="width:1000px;height:500px;">
   <div class="text">Caption Two</div>
 </div>
 
 <div class="mySlides fade">
   <div class="numbertext">3 / 3</div>
-  <img src="https://i.pinimg.com/originals/ee/b6/b8/eeb6b891f29aa8aac7e244af7e175b71.jpg" style="width:430px;height:360px;">
+  <img src="https://i.pinimg.com/originals/ee/b6/b8/eeb6b891f29aa8aac7e244af7e175b71.jpg" style="width:1000px;height:500px;">
   <div class="text">Caption Three</div>
 </div>
 
