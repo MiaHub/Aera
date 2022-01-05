@@ -13,11 +13,7 @@ main branch showing
 <html>
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<style>
-  
 <link rel="stylesheet" href="style.css">
-
-</style>
 </head>
 <body>
 
