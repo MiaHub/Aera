@@ -62,8 +62,16 @@ img {vertical-align: middle;}
   padding: 8px 12px;
   position: absolute;
   top: 0;
-  filter: opacity(50%);
-  -webkit-filter: opacity(50%);
+}
+
+.numbertext3 {
+  color: #f2f2f2;
+  font-size: 12px;
+  padding: 8px 12px;
+  position: absolute;
+  top: 0;
+  filter: opacity(10%);
+  -webkit-filter: opacity(10%);
 }
 
 /* The dots/bullets/indicators */
