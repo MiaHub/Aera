@@ -62,8 +62,8 @@ img {vertical-align: middle;}
   padding: 8px 12px;
   position: absolute;
   top: 0;
-  filter: invert(100%);
-  -webkit-filter: invert(100%);
+  filter: opacity(50%);
+  -webkit-filter: opacity(50%);
 }
 
 /* The dots/bullets/indicators */
@@ -98,17 +98,4 @@ img {vertical-align: middle;}
 @keyframes fade {
   from {opacity: .4}
   to {opacity: 1}
-}
-
-img {
-  width: 40%;
-  float: left;
-}
-.image-1 {
-  filter: invert(100%);
-  -webkit-filter: invert(100%);
-}
-.image-2 {
-  filter: sepia(100%);
-  -webkit-filter: sepia(100%);
 }
