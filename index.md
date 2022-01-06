@@ -17,11 +17,11 @@ Book writing collabartion
 <div class="slideshow-container">
 
 <div class="mySlides fade">
-  <div class="numbertext">1 / 3</div>
   <a href="https://github.com/MiaHub/Aera/blob/main/README.md">
   <!--copy image address while at pinterest-->
   <img src="https://i.pinimg.com/originals/ee/b6/b8/eeb6b891f29aa8aac7e244af7e175b71.jpg" style="width:1000px;height:500px;" class="brightness1">
   </a>
+  <div class="numbertext">1 / 3</div>
   <div class="text">Chapter1</div>
 </div>
 
