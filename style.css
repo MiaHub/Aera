@@ -69,8 +69,8 @@ img {vertical-align: middle;}
 .grayscale { filter: grayscale(100%); }
 .contrast { filter: contrast(160%); }
 .brightness1 { filter: brightness(0.10); }
-.brightness2 { filter: brightness(0.20); }
-.brightness3 { filter: brightness(0.30); }
+.brightness2 { filter: brightness(0.25); }
+.brightness3 { filter: brightness(0.50); }
 .blur { filter: blur(3px); }
 .invert { filter: invert(100%); }
 .sepia { filter: sepia(100%); }
