@@ -22,20 +22,20 @@ Book writing collabartion
   <div class="numbertext">1 / 3</div>
   <a href="https://github.com/MiaHub/Aera/blob/main/README.md">
   <!--copy image address while at pinterest-->
-  <img src="https://i.pinimg.com/originals/ee/b6/b8/eeb6b891f29aa8aac7e244af7e175b71.jpg" style="width:1000px;height:500px;">
+  <img src="https://i.pinimg.com/originals/ee/b6/b8/eeb6b891f29aa8aac7e244af7e175b71.jpg" style="width:1000px;height:500px;" class="brightness1">
   </a>
   <div class="text">Chapter1</div>
 </div>
 
 <div class="mySlides fade">
   <div class="numbertext">2 / 3</div>
-  <img src="https://i.pinimg.com/564x/73/9c/c9/739cc9d2b8ccd703df4c4e454bc59fce.jpg"  style="width:1000px;height:500px;">
+  <img src="https://i.pinimg.com/originals/ee/b6/b8/eeb6b891f29aa8aac7e244af7e175b71.jpg"  style="width:1000px;height:500px;" class="brightness2">
   <div class="text">Chapter2</div>
 </div>
 
 <div class="mySlides fade">
   <div class="numbertext">4 / 3</div>
-  <img src="https://i.pinimg.com/originals/ee/b6/b8/eeb6b891f29aa8aac7e244af7e175b71.jpg" style="width:1000px;height:500px;" class="brightness">
+  <img src="https://i.pinimg.com/originals/ee/b6/b8/eeb6b891f29aa8aac7e244af7e175b71.jpg" style="width:1000px;height:500px;" class="brightness3">
   <div class="text">Chapter3</div>
 </div>
 
