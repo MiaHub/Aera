@@ -12,7 +12,7 @@ To find a team that wants to contribute to my work.
 1. I will summorize what will happen in the book from start to finish
 1. I will summorize what will happen chapter by chapter
 1. Then i will try to write each chapter down using markdown  
-1. When you find mistakes or you have a better idea or you want to  write chapter. You can create a fork and ask for a pull request. 
+1. When you find mistakes or you have a better idea or you want to  write a chapter. You can create a fork and ask for a pull request. 
 
 #### Sytle:
 [Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)

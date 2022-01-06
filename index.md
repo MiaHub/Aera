@@ -4,7 +4,7 @@ Book writing collabartion
 
 **Table of Contents**
 
-1. [About](https://github.com/MiaHub/Aera/blob/main/about)
+1. [About](https://https://miahub.github.io/Aera/about)
 1. [Chapter1](#Chapter1)
 
 ## Chapter1
@@ -20,9 +20,10 @@ Book writing collabartion
 
 <div class="mySlides fade">
   <div class="numbertext">1 / 3</div>
+  <div class="image-1">1 / 3</div>
   <a href="https://github.com/MiaHub/Aera/blob/main/README.md">
   <!--copy image address while at pinterest-->
-  <img src="https://i.pinimg.com/originals/ee/b6/b8/eeb6b891f29aa8aac7e244af7e175b71.jpg" style="width:1000px;height:500px;">
+  <img src="https://i.pinimg.com/originals/ee/b6/b8/eeb6b891f29aa8aac7e244af7e175b71.jpg&amp;ixid=eyJhcHBfaWQiOjEyMDd9&amp;auto=format&amp;fit=crop&amp;w=1000&amp;q=80" style="width:1000px;height:500px;">
   </a>
   <div class="text">Chapter1</div>
 </div>
