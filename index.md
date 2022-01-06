@@ -35,7 +35,7 @@ Book writing collabartion
 
 <div class="mySlides fade">
   <div class="numbertext">4 / 3</div>
-  <img src="https://i.pinimg.com/originals/ee/b6/b8/eeb6b891f29aa8aac7e244af7e175b71.jpg" style="width:1000px;height:500px;" class="brightness">
+  <img src="https://images.unsplash.com/photo-1480044965905-02098d419e96?ixlib=rb-1.2.1&amp;ixid=eyJhcHBfaWQiOjEyMDd9&amp;auto=format&amp;fit=crop&amp;w=1000&amp;q=80" style="width:1000px;height:500px;" class="image-1">
   <div class="text">Chapter3</div>
 </div>
 
