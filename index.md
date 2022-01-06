@@ -4,7 +4,8 @@ Book writing collabartion
 
 **Table of Contents**
 
-1. [Chapter1](#chapter1)
+1. [About](https://github.com/MiaHub/Aera/blob/main/about)
+1. [Chapter1](#Chapter1)
 
 ## Chapter1
 

@@ -1,11 +1,18 @@
 ## About Aera
 
-Since i want to write a book but i cannot do it alone,
-i created this Project on GitHub.
-I thought maybe it is possible that i can write a book together
-with the community.
+##### Project:
+This is a book writing collaboration.
+Since i never wrote a book before and english isn't my mother language
+and i wanted to get into using github and i don't really have the time
+to write a book on my own.
+I thought i just post everything i write online.
+To find a team that wants to contribute to my work.
 
-The reasons i cannot write a book on my own:
-1. time
-2. mother language 
-3. experience
+* Workflow
+1. I will summorize what will happen in the book from start to finish
+1. I will summorize what will happen chapter by chapter
+1. Then i will try to write each chapter down using markdown  
+1. When you find mistakes or you have a better idea or you want to  write chapter. You can create a fork and ask for a pull request. 
+
+##### Sytle:
+[Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
