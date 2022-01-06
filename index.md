@@ -26,14 +26,14 @@ Book writing collabartion
 </div>
 
 <div class="mySlides fade">
-  <div class="numbertext">2 / 3</div>
   <img src="https://i.pinimg.com/originals/ee/b6/b8/eeb6b891f29aa8aac7e244af7e175b71.jpg"  style="width:1000px;height:500px;" class="brightness2">
+  <div class="numbertext">2 / 3</div>
   <div class="text">Chapter2</div>
 </div>
 
 <div class="mySlides fade">
-  <div class="numbertext">3 / 3</div>
   <img src="https://i.pinimg.com/originals/ee/b6/b8/eeb6b891f29aa8aac7e244af7e175b71.jpg" style="width:1000px;height:500px;" class="brightness3">
+  <div class="numbertext">3 / 3</div>
   <div class="text">Chapter3</div>
 </div>
 
